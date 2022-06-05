@@ -1,0 +1,45 @@
+{
+  "recommendations": [
+    // my extensions
+    "aaron-bond.better-comments",
+    "lokalise.i18n-ally",
+    "2gua.rainbow-brackets",
+    "ms-azuretools.vscode-docker",
+
+    // antfu extensions
+    "antfu.browse-lite",
+    "antfu.iconify",
+    "antfu.vite",
+    "antfu.where-am-i",
+    "antfu.file-nesting",
+
+    // themes & icons
+    "antfu.icons-carbon",
+    // "dracula-theme-pro.theme-dracula-pro", // private theme
+    "pkief.material-icon-theme",
+
+    // life savers!
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "github.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+
+    // up to you
+    "formulahendry.terminal",
+    "amodio.tsl-problem-matcher",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "GitHub.vscode-pull-request-github",
+    "mpontus.tab-cycle",
+    "naumovs.color-highlight",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
+    "voorjaar.windicss-intellisense",
+    "WakaTime.vscode-wakatime",
+    "znck.grammarly"
+  ]
+}
