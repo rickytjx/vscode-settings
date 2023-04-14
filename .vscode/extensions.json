@@ -5,6 +5,8 @@
     "lokalise.i18n-ally",
     "2gua.rainbow-brackets",
     "ms-azuretools.vscode-docker",
+    "github.remotehub",
+    "ambar.bundle-size",
 
     // antfu extensions
     "antfu.browse-lite",
@@ -15,6 +17,7 @@
 
     // themes & icons
     "antfu.icons-carbon",
+    "sainnhe.gruvbox-material",
     // "dracula-theme-pro.theme-dracula-pro", // private theme
     "pkief.material-icon-theme",
 

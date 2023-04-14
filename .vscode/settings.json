@@ -1,6 +1,6 @@
 {
   "editor.accessibilitySupport": "off",
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.find.addExtraSpaceOnTop": false,
   "editor.fontFamily": "MonoLisa, monospace",
   "editor.fontLigatures": "'ss01', 'ss03', 'zero'",
@@ -15,6 +15,8 @@
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
   "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.stickyScroll.enabled": true,
+  "editor.hover.sticky": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": false,
     "source.fixAll.eslint": true, // this allows ESLint to auto fix on save
@@ -154,8 +156,6 @@
   "iconify.inplace": true,
   "svg.preview.mode": "svg",
   "volar.autoCompleteRefs": false,
-  "volar.codeLens.pugTools": false,
-  "volar.codeLens.scriptSetupTools": true,
   "volar.completion.preferredTagNameCase": "pascal",
   "volar.showWelcomePage": false,
   "volar.takeOverMode.enabled": "auto",
